@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import store from "@/stores/solodisco.js";
+import store from "@/store.js";
 export default {
   props: {
     index: Number

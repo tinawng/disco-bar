@@ -4,7 +4,7 @@
       <img class="watermark-logo" :src="'./assets/images/arturia-logo.svg'" />
       <span class="watermark-text">arturia</span>
     </v-row>
-    <v-row style="height: 10vw; margin: 2vw; align-items: center">
+    <v-row style="height: 10vw; margin: 2vw; align-items: center; text-align: left">
       <span class="view-title">Products</span>
       <span class="view-subtitle">Software Instruments</span>
     </v-row>

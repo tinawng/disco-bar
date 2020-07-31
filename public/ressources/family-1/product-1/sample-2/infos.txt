@@ -1,0 +1,2 @@
+repeater synth
+use the powerful modulation routing to make your instruments delay or repeat only at set times in the bar, perfectly sync'd to your daw.

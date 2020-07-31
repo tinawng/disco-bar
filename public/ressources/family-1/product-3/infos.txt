@@ -1,0 +1,3 @@
+Delay MEMORY-BRIGADE
+filtered analog bbd echo
+modelled on the most famous bbd / bucket brigade device delay ever made. filtered, lo-fi tone, huge feedback, with a modern touch.

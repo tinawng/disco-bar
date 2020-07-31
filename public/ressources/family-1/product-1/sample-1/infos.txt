@@ -1,0 +1,2 @@
+granular drums
+deconstruct and make a mess out of any source in real time! lfo modulations twist the delay, the fade mode keeps the pitch steady when changing delay time.
